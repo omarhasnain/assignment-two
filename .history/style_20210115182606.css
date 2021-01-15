@@ -1,0 +1,76 @@
+
+header{
+    background-color: antiquewhite;
+}
+.container-fluid img{
+    width: 50%;
+    margin-left: 40px;
+}
+.navigation{
+    margin-left: 40%;
+}
+.highlight{
+    color:orange;
+    
+}
+.starter{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.panda-card {
+    max-width: 100%;
+    max-height: 100%;
+    border:0;
+    resize: both;
+    
+   
+    
+    
+}
+.panda-card img{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.categories img{
+    width: 100px;
+    
+
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, lightgreen 0%, green 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-img-top{
+    background-color: rgb(241, 239, 239);
+    border-radius: 1em;
+    padding: 20px 20px;
+}
+
+.card-foot{
+    margin-left: 10px;
+}
+.card-button{
+    margin-left: 100px;
+}
+.updates{
+    color: gray;
+}
+.container{
+    margin-bottom: 100px;
+}
+.packet{
+    margin-bottom: 1.9cm;
+}
+.special{
+    margin-left: 15px;
+    border: 0;
+}
